@@ -1,2 +1,2 @@
 # Proyecto de prueba
-# Modificado README
+# Modificado README por conflicto
